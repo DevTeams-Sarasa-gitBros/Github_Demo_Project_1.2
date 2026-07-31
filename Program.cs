@@ -16,7 +16,7 @@ while (running)
     Console.WriteLine("4. Toggle done");
     Console.WriteLine("5. Delete task");
     Console.WriteLine("6. Exit");
-    Console.Write("Choose an option : "); //COMMENT VINKI
+    Console.Write("Choose an option: "); //Comment Lahiru
 
     var choice = Console.ReadLine();
 
